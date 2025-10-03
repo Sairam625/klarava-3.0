@@ -66,8 +66,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📬 Contact
 
-Created by [Your Name] - [your.email@example.com]
+Created by sairam - sairamh161@gmail.com
 
-Nityotsava Kannada Balaga - [Link to social media or official page]
-
-Project Link: [https://github.com/your-username/kalarava-3](https://github.com/your-username/kalarava-3)
+Project Link: https://github.com/sairam625/klarava-3.0
